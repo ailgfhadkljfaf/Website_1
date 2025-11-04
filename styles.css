@@ -1,0 +1,50 @@
+nav {
+    height: 80px;
+    width: 100%;
+    background-color:dimgrey;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+.menu {
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 20px;
+    color: white;
+}
+
+main {
+    height: 500px;
+    width: 100%;
+    background-color:grey;
+    display: flex;
+    justify-content: top;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+footer {
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:azure;
+}
+
+.secret {
+    display: none;
+}
+
+img {
+    height: 250px;
+}
